@@ -1,0 +1,60 @@
+D:\Github\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.exe
+D:\Github\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.deps.json
+D:\Github\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+D:\Github\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
+D:\Github\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.AssemblyReference.cache
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.cs
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.dll
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\refint\Minesweeper.dll
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form2.resources
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form3.resources
+D:\Github\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form4.resources
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.exe
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.deps.json
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.AssemblyReference.cache
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form2.resources
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form3.resources
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form4.resources
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.cs
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.dll
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\refint\Minesweeper.dll
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
+C:\Users\APR Services\Desktop\CST-250\Minesweeper\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
+D:\Github\CST-250Milestone\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.exe
+D:\Github\CST-250Milestone\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.deps.json
+D:\Github\CST-250Milestone\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.runtimeconfig.json
+D:\Github\CST-250Milestone\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.dll
+D:\Github\CST-250Milestone\Minesweeper\bin\Debug\net6.0-windows\Minesweeper.pdb
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.AssemblyReference.cache
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form1.resources
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form2.resources
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form3.resources
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.Form4.resources
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.GenerateResource.cache
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.GeneratedMSBuildEditorConfig.editorconfig
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfoInputs.cache
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.AssemblyInfo.cs
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.csproj.CoreCompileInputs.cache
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.dll
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\refint\Minesweeper.dll
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.pdb
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\Minesweeper.genruntimeconfig.cache
+D:\Github\CST-250Milestone\Minesweeper\obj\Debug\net6.0-windows\ref\Minesweeper.dll
